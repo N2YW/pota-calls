@@ -1,6 +1,5 @@
 # Quoted Text Extractor
-
-This is a simple PHP web application that extracts text enclosed in single or double quotes from user input.
+This is a simple PHP web application that extracts callsigns from a pota.app .json array.
 
 ## Features
 - Accepts user input through a textarea form
