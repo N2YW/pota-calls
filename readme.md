@@ -1,5 +1,5 @@
-# Quoted Text Extractor
-This is a simple PHP web application that extracts callsigns from a pota.app .json array.
+# Pota.app Call Extractor
+This is a simple PHP web application that extracts displayed callsigns from a pota.app .json array.
 
 ## Features
 - Accepts user input through a textarea form
